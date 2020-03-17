@@ -1,0 +1,56 @@
+.content{
+    box-shadow: 12px 0 15px -4px #53535327, -12px 0 8px -4px #53535327;
+}
+.heading{
+    font-size: 2rem;
+}
+.btn{
+    border-radius: 0;
+}
+.sub-head{
+    font-size: 1.75rem;
+}
+.sub-document{
+    font-size: 1.25rem;
+    color: gray;
+}
+.image-border{
+    border: 1px solid red
+}
+.button-font{
+    font-size: 1rem;
+}
+.nav-background-grey{
+    background-color: #8080801c;
+}
+.nav-item .nav-link.active{
+    font-weight: 700;
+}
+.nav-item .nav-link{
+    color: black !important;
+}
+.sub-head-2{
+    font-size: 1.25rem;
+}
+.bg-custom-warning{
+    background-color: rgba(255, 242, 185, 0.459);
+    font-weight: 500;
+}
+.custom-control-label:before{
+    border-color:#FFCD11;
+}
+.custom-checkbox .custom-control-input:checked~.custom-control-label::before{
+    background-color:#FFCD11;
+    border-color: #FFCD11;
+}
+.custom-control-input:active~.custom-control-label::before{
+    border-color: #FFCD11;
+    background-color:#FFCD11;
+}
+
+.custom-checkbox .custom-control-input:focus~.custom-control-label::before{
+    box-shadow: 0 0 0 1px #fff, 0 0 0 0.2rem rgba(255, 203, 17, 0.384); 
+}
+.font-size-small{
+    font-size: 0.75rem;
+}

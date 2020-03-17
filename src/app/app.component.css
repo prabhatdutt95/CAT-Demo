@@ -1,0 +1,15 @@
+.bg-darker{
+    background-color: black;
+}
+.nav-link{
+    color: white !important;
+}
+.navbar{
+    border-left: 3px solid #FFCD11;
+    border-right: 3px solid #FFCD11;
+    border-bottom: 5px solid #FFCD11;
+}
+/* .active{
+    color: #FFCD11 !important;
+    border-bottom: 3px solid #FFCD11;
+} */
